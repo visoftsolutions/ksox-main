@@ -1,0 +1,36 @@
+# Git
+**/.git
+
+# Readme
+**/[Rr][Ee][Aa][Dd][Mm][Ee]
+**/[Rr][Ee][Aa][Dd][Mm][Ee].[Mm][Dd]
+
+# License
+**/[Ll][Ii][Cc][Ee][Nn][Ss][Ee]
+
+# Ignores
+**/.gitignore
+**/.dockerignore
+
+# Docker
+**/Dockerfile
+**/*.dockerfile
+
+# k8s
+**/k8s/
+
+# Envs
+**/envs/
+**/*.env
+**/*.local
+**/*.cargo
+
+# Editor
+**/.vscode/
+**/.idea
+**/.DS_Store
+**/*.suo
+**/*.ntvs*
+**/*.njsproj
+**/*.sln
+**/*.sw?

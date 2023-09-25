@@ -1,0 +1,15 @@
+# Envs
+**/envs/
+**/*.env
+**/*.local
+**/*.cargo
+
+# Editor
+**/.vscode/
+**/.idea
+**/.DS_Store
+**/*.suo
+**/*.ntvs*
+**/*.njsproj
+**/*.sln
+**/*.sw?
